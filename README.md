@@ -57,4 +57,10 @@ For Running the application follow this steps:
     
    
    # Some screenshots for the visual of the running application and demo:
-   
+   follow this link for seeing the booking application:
+   (https://drive.google.com/file/d/1tpGXQzEuuDxuZ2eWlEuM-4RP9K2Uw99E/view?usp=sharing)
+
+   # Branching Strategy as:
+      - master (production)
+        - dev  (pre-stage)
+          - release-0.1.0 (developer stage)
