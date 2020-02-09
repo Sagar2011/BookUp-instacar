@@ -40,20 +40,20 @@ For Running the application follow this steps:
 	         "rating": 4.3,
 	         "languages": ["English","Hindi"],
 	          "driverprice": 11
-         } ```
+         } 
    ---> add some more objects for drivers data
 # Wait for minute and Visit the location: (http://localhost:8080)
 ------------------------------------------------------------------------------------------------------------------------------
  **Once the above done the services are up and now this is the basic information as a developer purpose**
   
-  **|   PORTS      |        Service          |**
-    |    8761      |    Eureka naming Server |
-    |    8080      |    Zuul gateway Server  | 
-    |    8000      |      user  Server       |
-    |    8500      |    booking  Server      |
-    |    8765      |     webapp  Server      |
-    |    3306      |    mysql db Server      |
-    |    27017     |    mongo db Server      |
+  - **|   PORTS      |        Service          |**
+  -   |    8761      |    Eureka naming Server |
+  -   |    8080      |    Zuul gateway Server  | 
+  -   |    8000      |      user  Server       |
+  -   |    8500      |    booking  Server      |
+  -   |    8765      |     webapp  Server      |
+  -   |    3306      |    mysql db Server      |
+  -   |    27017     |    mongo db Server      |
     
    
    # Some screenshots for the visual of the running application and demo:
