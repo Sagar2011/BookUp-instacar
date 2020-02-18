@@ -5,6 +5,9 @@ This is the repository for the instacar task round.
 
 > please find anytime for suggestions and reviews. Also there are many things to do which due to less time couldn't achieve. thank you for patience and visiting.
 
+# Bookup is booking system for cab from bangalore to any city across india. It let you login using gmail account. and let you see your booking status in the history and also select driver using filter based on the languages and ratings. 
+
+> please find anytime for suggestions and reviews. Also there are many things to do which due to less time couldn't achieve. thank you for patience and visiting.
 
 For Running the application follow this steps:
 
@@ -61,4 +64,10 @@ For Running the application follow this steps:
     
    
    # Some screenshots for the visual of the running application and demo:
-   
+   follow this link for seeing the booking application:
+   (https://drive.google.com/file/d/1tpGXQzEuuDxuZ2eWlEuM-4RP9K2Uw99E/view?usp=sharing)
+
+   # Branching Strategy as:
+      - master (production)
+        - dev  (pre-stage)
+          - release-0.1.0 (developer stage)
